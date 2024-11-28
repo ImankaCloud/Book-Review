@@ -44,3 +44,10 @@
 1. Start the backend server: `npm start` in the `backend` folder.
 2. Start the frontend server: `npm run dev` in the `frontend` folder.
 3. Open the application at `http://localhost:5173`.
+
+
+## Hosted Application
+The application is also hosted online and accessible via Vercel. 
+Click the link below to view it:
+
+`https://frontend-git-main-imankaclouds-projects.vercel.app/`
