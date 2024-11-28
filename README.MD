@@ -8,6 +8,7 @@
 - Zustand
 - Axios
 - React Router
+- Framer Motion
 
 ### Backend
 
